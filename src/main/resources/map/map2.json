@@ -1,0 +1,216 @@
+[
+  {
+    "trajectory": [
+      {"x": -64, "y": 0},
+      {"x": 464, "y": 0}
+    ],
+    "speed": 5,
+    "startTime": 1000,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 160},
+      {"x": 464, "y": 160}
+    ],
+    "speed": 5,
+    "startTime": 1000,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 320},
+      {"x": 464, "y": 320}
+    ],
+    "speed": 5,
+    "startTime": 1000,
+    "endTime": 5000,
+    "type": "circle"
+  },
+
+  {
+    "trajectory": [
+      {"x": -64, "y": 96},
+      {"x": 464, "y": 96}
+    ],
+    "speed": 5,
+    "startTime": 1750,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 256},
+      {"x": 464, "y": 256}
+    ],
+    "speed": 5,
+    "startTime": 1750,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 0},
+      {"x": 464, "y": 0}
+    ],
+    "speed": 5,
+    "startTime": 2500,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 160},
+      {"x": 464, "y": 160}
+    ],
+    "speed": 5,
+    "startTime": 2500,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 320},
+      {"x": 464, "y": 320}
+    ],
+    "speed": 5,
+    "startTime": 2500,
+    "endTime": 5000,
+    "type": "circle"
+  },
+
+  {
+    "trajectory": [
+      {"x": -64, "y": 0},
+      {"x": 464, "y": 0}
+    ],
+    "speed": 5,
+    "startTime": 3250,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 160},
+      {"x": 464, "y": 160}
+    ],
+    "speed": 5,
+    "startTime": 3250,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 256},
+      {"x": 464, "y": 256}
+    ],
+    "speed": 5,
+    "startTime": 3250,
+    "endTime": 5000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 352},
+      {"x": 464, "y": 352}
+    ],
+    "speed": 5,
+    "startTime": 3250,
+    "endTime": 5000,
+    "type": "circle"
+  },
+
+  {
+    "trajectory": [
+      {"x": -64, "y": 0},
+      {"x": 464, "y": 0}
+    ],
+    "speed": 5,
+    "startTime": 4000,
+    "endTime": 7000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 80},
+      {"x": 464, "y": 80}
+    ],
+    "speed": 5,
+    "startTime": 4000,
+    "endTime": 7000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 160},
+      {"x": 464, "y": 160}
+    ],
+    "speed": 5,
+    "startTime": 4000,
+    "endTime": 7000,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 320},
+      {"x": 464, "y": 320}
+    ],
+    "speed": 5,
+    "startTime": 4000,
+    "endTime": 7000,
+    "type": "circle"
+  },
+
+  {
+    "trajectory": [
+      {"x": -64, "y": 0},
+      {"x": 464, "y": 0}
+    ],
+    "speed": 5,
+    "startTime": 4750,
+    "endTime": 5750,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 80},
+      {"x": 464, "y": 80}
+    ],
+    "speed": 5,
+    "startTime": 4750,
+    "endTime": 5750,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 160},
+      {"x": 464, "y": 160}
+    ],
+    "speed": 5,
+    "startTime": 4750,
+    "endTime": 5750,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 240},
+      {"x": 464, "y": 240}
+    ],
+    "speed": 5,
+    "startTime": 4750,
+    "endTime": 5750,
+    "type": "circle"
+  },
+  {
+    "trajectory": [
+      {"x": -64, "y": 320},
+      {"x": 464, "y": 320}
+    ],
+    "speed": 5,
+    "startTime": 4750,
+    "endTime": 5750,
+    "type": "circle"
+  }
+]
